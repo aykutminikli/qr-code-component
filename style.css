@@ -33,7 +33,8 @@ body{
     text-align: center;
 }
 
-.component__body h2{
+.component__body h1{
+    font-size: 1.5em;
     color: hsl(218, 44%, 22%);
 }
 
